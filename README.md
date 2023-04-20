@@ -1,5 +1,5 @@
-Miguel Velarde 
-Carlos acosta
-Manuel Barraza
-Luis Villa
+Miguel Velarde,
+Carlos Acosta,
+Manuel Barraza,
+Luis Villa,
 Mguel Gamboa
